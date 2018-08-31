@@ -1,0 +1,26 @@
+{
+  "name": "exercicetransactionanalyser",
+  "version": "1.0.0",
+  "description": "At Acme Bank, we will have to deal with transactions on a regular basis. Unfortunately, they are not always formatted and modeled the way we would like.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbung/ExerciceTransactionAnalyser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbung/ExerciceTransactionAnalyser/issues"
+  },
+  "homepage": "https://github.com/rbung/ExerciceTransactionAnalyser#readme",
+  "dependencies": {
+    "csv-parser": "^1.12.1"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
